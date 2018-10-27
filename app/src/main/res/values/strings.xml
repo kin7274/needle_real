@@ -1,0 +1,86 @@
+<resources>
+    <!--앱 이름-->
+    <!--니들 우리들 모두들 꿈과 희망을...-->
+    <string name="app_name">NEEDLE UREEDLE MODUDLE DREAM AND HOPE..</string>
+
+    <!--툴바 타이틀-->
+    <string name="scan_device">Scan Device</string>
+    <string name="set_insulin">Set Insulin</string>
+
+    <!--네비게이션 드로워-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--권한허용 부탁 다이얼로그-->
+    <string name="permission_plz_title">권한 요청</string>
+    <string name="permission_plz_content">위치 권한을 허용해주세욥!</string>
+
+    <!--BLE DEVICE NAME-->
+    <string name="ble_device_name">NeedleBT</string>
+
+    <!--textview-->
+    <string name="insulin_title">MY 인슐린에 대해..</string>
+
+
+
+
+
+    <!--버튼명-->
+    <!--다음 기회에..-->
+    <string name="promise_next_time">다음 기회에</string>
+    <!--Scan-->
+    <string name="scan">Scan</string>
+
+
+
+
+    <!--블루투스-->
+    <string name="permission_alert_title">This app needs location access</string>
+    <string name="permission_alert_message">Please grant location access so this app can detect peripherals.</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!--인슐린 종류-->
+    <string name="insulin_name">초속효성</string>
+    <string name="insulin_name1">속효성</string>
+    <string name="insulin_name2">중간형</string>
+    <string name="insulin_name3">혼합형</string>
+    <string name="insulin_name4">지속형</string>
+    <!--하위 품명-->
+    <!--초속효성-->
+    <string name="insulin_name0_0">휴머로그</string>
+    <string name="insulin_name0_1">노보래피드</string>
+    <string name="insulin_name0_2">애피드라</string>
+    <!--속효성-->
+    <string name="insulin_name1_0">휴먼인슐린</string>
+    <!--중간형-->
+    <string name="insulin_name2_0">노보린</string>
+    <string name="insulin_name2_1">노보렛</string>
+    <string name="insulin_name2_2">휴불린</string>
+    <string name="insulin_name2_3">인슈라타드</string>
+    <!--혼합형-->
+    <string name="insulin_name3_0">노보믹스</string>
+    <string name="insulin_name3_1">휴머로그믹스</string>
+    <string name="insulin_name3_2">휴물린</string>
+    <string name="insulin_name3_3">믹스타드</string>
+    <!--지속형-->
+    <string name="insulin_name4_0">란투스</string>
+    <string name="insulin_name4_1">레버미어</string>
+
+    <!--투약시간-->
+    <string name="state_0_0">아침식전</string>
+    <string name="state_0_1">점심식전</string>
+    <string name="state_0_2">저녁식전</string>
+    <string name="state_0_3">취침전</string>
+</resources>
